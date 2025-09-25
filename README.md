@@ -34,6 +34,6 @@ The **$35,000 Builder Grant** request has been budgeted specifically to secure p
 ## Key Links 
 
 * **Video Pitch:** https://hotwingandaprayer.com/project-showcase/
-* **Full Grant Proposal:** [**Upload and insert link to PDF/DOCX here**]   
+* **Full Grant Proposal:** https://github.com/thebradmiskell/IYKYK-The-Mystery-Trait/blob/main/SUI-Builder-Grant-Proposal_IYKYK.pdf
 
 **Thank you for your consideration.**
