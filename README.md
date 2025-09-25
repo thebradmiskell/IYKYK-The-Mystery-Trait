@@ -20,25 +20,20 @@ As the IP Creator (Brad Miskell), my focus is on content, community, and the uni
 
 ## Technical Execution & The \$35,000 Grant Request   
 
-The **\$35,000 Builder Grant** request has been budgeted specifically to secure professional technical execution, addressing any need for prior coding examples:   
+The **$35,000 Builder Grant** request has been budgeted specifically to secure professional technical execution, addressing any need for prior coding examples:
 
-| Budget Item | Allocation | Rationale |   
+| Budget Item | Allocation |
+| :--- | :--- |
+| **Smart Contract Audits** | **$10,000** |
+| Infrastructure & Hosting | $5,000 |
+| Marketing & Community Growth | $15,000 |
+| IP Development & Refinement | $5,000 |
 
-| :--- | :--- | :--- |   
-
-| **Smart Contract Audits** | **\$10,000** | **To hire a specialized Sui engineering firm to audit and/or develop the smart contracts.** This ensures best-in-class security and coding standards. |   
-
-| Infrastructure & Hosting | \$5,000 | |   
-
-| Marketing & Community Growth | \$15,000 | |   
-
-| IP Development & Refinement | \$5,000 | |   
-
-**The requested grant funds are specifically designed to bridge the technical gap by acquiring top Sui talent.** The core team is focused on content and community, ensuring the product has the unique market viability to succeed.   
+**Rationale for Smart Contract Audits ($10,000):** This fund is specifically designed to bridge the technical gap by acquiring top Sui talent to audit and/or develop the smart contracts, ensuring best-in-class security and coding standards. The core team is focused on content and community, ensuring the product has the unique market viability to succeed.
 
 ## Key Links 
 
-* **Video Pitch:** [**Insert Your YouTube Link Here**] 
+* **Video Pitch:** https://hotwingandaprayer.com/project-showcase/
 * **Full Grant Proposal:** [**Upload and insert link to PDF/DOCX here**]   
 
 **Thank you for your consideration.**
