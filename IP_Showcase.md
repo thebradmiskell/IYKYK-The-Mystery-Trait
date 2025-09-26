@@ -16,10 +16,11 @@ This video was created at Gemini's suggestion to serve as the most important fun
 
 The IYKYK game is based on the expansive narrative of the Hot Wing & A Prayer universe, which began with the **SNATCHED! The Genesis-ing** digital comic.
 
-* **Status:** Full 26-page digital comic completed (pending final polish).
+* **Status:** Full 26-page digital comic completed (pending final polish). Cartoon strips and gag panels.
 * **Sample Pages:** 
   * https://github.com/thebradmiskell/IYKYK-The-Mystery-Trait/blob/main/2-MASTER-3-25.jpg 
   * https://github.com/thebradmiskell/IYKYK-The-Mystery-Trait/blob/main/22-MASTER-3-25.jpg
+  * https://github.com/thebradmiskell/IYKYK-The-Mystery-Trait/blob/main/4-Grateful-finalpanel.jpg
 * **Art Style:** The same irreverent, satirical style seen in the NFT collection.
 
 ## 3. The Music (Original Score)
