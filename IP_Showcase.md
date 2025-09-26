@@ -18,8 +18,8 @@ The IYKYK game is based on the expansive narrative of the Hot Wing & A Prayer un
 
 * **Status:** Full 26-page digital comic completed (pending final polish).
 * **Sample Pages:** 
-* https://github.com/thebradmiskell/IYKYK-The-Mystery-Trait/blob/main/2-MASTER-3-25.jpg 
-* https://github.com/thebradmiskell/IYKYK-The-Mystery-Trait/blob/main/22-MASTER-3-25.jpg
+  * https://github.com/thebradmiskell/IYKYK-The-Mystery-Trait/blob/main/2-MASTER-3-25.jpg 
+  * https://github.com/thebradmiskell/IYKYK-The-Mystery-Trait/blob/main/22-MASTER-3-25.jpg
 * **Art Style:** The same irreverent, satirical style seen in the NFT collection.
 
 ## 3. The Music (Original Score)
